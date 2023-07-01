@@ -1,0 +1,5 @@
+/output/
+*.odt
+__pycache__
+notebooks/__pycache__
+notebooks/output
