@@ -16,3 +16,7 @@ Below is a diagram showing the Transformer -decorder architecture I implemented.
 GPT(Transformer-decoder architecture) - 2 Heads, 1 Layer.
 
 
+![Image 2](https://github.com/kvsnoufal/MidiTransformer/blob/main/docs/img2.png)
+Tiny Stories completion.
+
+
