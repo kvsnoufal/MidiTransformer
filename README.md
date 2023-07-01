@@ -12,7 +12,7 @@ I deployed the GPT model in flask and modified a cool midi player project I foun
 ## GPT from scratch
 Below is a diagram showing the Transformer -decorder architecture I implemented.
 
-![Image 1](https://example.com/image1.jpg)
+![Image 1](https://github.com/kvsnoufal/MidiTransformer/blob/main/docs/transformers.drawio.png)
 GPT(Transformer-decoder architecture) - 2 Heads, 1 Layer.
 
 
