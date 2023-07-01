@@ -20,3 +20,8 @@ GPT(Transformer-decoder architecture) - 2 Heads, 1 Layer.
 Tiny Stories completion.
 
 
+There is a lot of room for improvement here to get better results. My intention here was to learn and get a much more hands on experience with foundation model, and build something cool in the process. 
+## Shoulders of Giants
+- Andrej Karpathy's video walkthrough - https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy
+- The Illustrated Transformer - http://jalammar.github.io/illustrated-transformer/
+- GPT - Theory & Code -https://habr.com/en/companies/ods/articles/708672/
