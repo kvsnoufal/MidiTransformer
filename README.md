@@ -1,6 +1,8 @@
 # Generating Music with GPT
 Coding up a GPT transformer from scratch, training to generate midi music.
 
+Checkout Medium Article : https://medium.com/mlearning-ai/generating-music-with-gpt-b0f4ab738b58
+
 In this article, I detail my learnings implementing a GPT model from scratch, training it for a custom use case - generating symbolic music.
 
 ## Results
